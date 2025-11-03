@@ -2315,13 +2315,13 @@ def create_user_menu(
         keyboard.append([
             InlineKeyboardButton(
                 text="💬 Связь с поддержкой",
-                url="https://t.me/vatakatru"
+                url="https://t.me/crazevpn"
             )
         ])
         keyboard.append([
             InlineKeyboardButton(
                 text="ℹ️ Как пользоваться",
-                url="https://bi4i.ru/install/"
+                url="https://t.me/crazevpn"
             )
         ])
 
@@ -3988,3 +3988,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
