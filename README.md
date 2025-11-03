@@ -20,7 +20,7 @@
 
 Установка простая/ Важно! Перед установкой обязательно установите https://github.com/GubernievS/AntiZapret-VPN
 ```
-bash <(wget --no-hsts -qO- https://raw.githubusercontent.com/VATAKATru61/TG-Bot-OpenVPN-Antizapret/main/install.sh)
+bash <(wget --no-hsts -qO- https://raw.githubusercontent.com/HamonTeacher/TG-Bot-OpenVPN-Antizapret/main/install.sh)
 ```
 
 - Для VLESS ONLINE. Раскоментируйте все строки
